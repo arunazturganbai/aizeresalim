@@ -1,0 +1,68 @@
+body
+{  background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190830/pngtree-beautiful-abtract-background-with-stars-and-strokes-image_310567.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+header
+{
+    background-color: #FFA500;
+    color: #fff;
+    padding: 20px;
+    border: 2px solid #000000;
+}
+.cast
+{
+    background-color: #FFA500;
+}
+#cast
+{
+    background-color: #FFA500;
+    border: 2px solid #000000;
+}
+
+nav ul
+{
+    list-style: none;
+}
+nav ul li
+{    display: inline;
+    margin-right: 20px;
+}
+nav a
+{
+    text-decoration: none;    color: #fff;
+}
+section
+{    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border: 2px solid #000000;
+}
+form
+{
+    margin-top: 20px;
+}
+label
+{
+    display: block;
+    margin-bottom: 5px;
+}
+input[type="text"],
+input[type="email"],textarea
+{
+    width: 100%;    padding: 10px;
+    margin-bottom: 10px;
+}
+button
+{
+    background-color: #356;    color: #fff;
+    padding: 10px 20px;    border: none;
+    cursor: pointer;
+}
+footer
+{
+    text-align: center;
+    background-color: #333;
+    color: #fff;    padding: 10px;
+}
